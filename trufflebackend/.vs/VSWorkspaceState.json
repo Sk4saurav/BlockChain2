@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\contracts",
+    "\\contracts",
+    "\\migrations",
+    "\\test"
+  ],
+  "SelectedNode": "\\test\\demottest.py",
+  "PreviewInSolutionExplorer": false
+}
